@@ -14,5 +14,4 @@ public class Payment {
 
     public Payment() {}
 
-    // getters and setters...
 }
